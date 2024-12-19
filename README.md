@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey My name is Nakshatra Manglik and  I am a Full stack Developer from India !<br><br>🔭 I’m currently working on StayEz Website<br>🌱 I’m currently learning Docker and Kubernets<br>💬 Ask me anything related to MERN stack and related technologies <br>⚡ Fun fact i prefer java over python 
+Hey My name is Nakshatra Manglik and  I am a Full stack Developer from India !<br><br>🔭 I’m currently working on Canva Clone <br>🌱 I’m currently learning Docker and Kubernets<br>💬 Ask me anything related to MERN stack and related technologies <br>⚡ Fun fact i prefer java over python 
 
 
 ## 🌐 Socials:
