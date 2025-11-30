@@ -1,6 +1,7 @@
 # 💫 About Me:
 Hey My name is Nakshatra Manglik and  I am a Full stack Developer from India !<br><br>🔭 I’m currently working on Canva Clone <br>🌱 I’m currently learning Docker and Kubernets<br>💬 Ask me anything related to MERN stack and related technologies <br>⚡ Fun fact i prefer java over python 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=naksh1414&label=Profile%20views&color=0e75b6&style=flat" alt="the-developer-306" /> </p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_naksh____/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nakshatra-manglik/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Naksh1414) 
